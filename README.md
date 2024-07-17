@@ -30,5 +30,5 @@ sklearn
 The main findings of the code can be found at the post available [here](https://medium.com/@irve/can-you-guess-what-influences-airbnb-prices-in-berlin-3720764acad9).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-
+For some lines of code I was using kaggle.com and stackoverflow.com.
 You can find the Licensing for the data and other descriptive information at the insideairbnb link available [here](https://insideairbnb.com/get-the-data/).  Otherwise, feel free to use the code here as you would like! 
