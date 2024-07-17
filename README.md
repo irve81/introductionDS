@@ -12,7 +12,7 @@ For this Project, I was interestested in using Airbnb Berlin data from 2024.03 t
 1. What is the average price in each Berlin's district?
 2. What have the biggest influence on the price of listing.To help you asses what type of property is right to invest in.
 3. What to look for if you are trying to find affordable stay in Berlin.
-4. What effect on the price has the date of listing
+4. What effect on the price has the date of listing.
 5. To create a model to help you to predict rent price of your real estate.
 
 ## File Descriptions <a name="files"></a>
